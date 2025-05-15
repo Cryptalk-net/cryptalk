@@ -38,7 +38,7 @@ yarn add @cryptalk/browser
 
 ```javascript
 import { WalletClient } from "@reown/appkit";
-import { RWAMarketplaceSDK } from "@cryptalk";
+import { RWAMarketplaceSDK } from "@cryptalk/browser";
 
 // Connect a Reown WalletClient
 const wc = new WalletClient();
